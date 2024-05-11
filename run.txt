@@ -1,0 +1,21 @@
+manje@Manjeet_PC MINGW64 /d/Apple/complete-mern-project-main copy/complete-mern-project-main copy (master)
+$ cd foodi-client/
+
+manje@Manjeet_PC MINGW64 /d/Apple/complete-mern-project-main copy/complete-mern-project-main copy/foodi-client (master)
+$ npm run dev
+
+
+
+
+
+
+manje@Manjeet_PC MINGW64 /d/Apple/complete-mern-project-main copy/complete-mern-project-main copy (master)
+$ cd foodi-server/
+
+manje@Manjeet_PC MINGW64 /d/Apple/complete-mern-project-main copy/complete-mern-project-main copy/foodi-server (master)
+$ npm start
+
+
+mongodb url
+
+mongodb+srv://saurabhworks890:saurabH123@saurabh.sob9ft2.mongodb.net/
